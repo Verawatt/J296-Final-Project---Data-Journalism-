@@ -152,3 +152,51 @@ One month into the conflict, President Biden, under pressure from refugee advoca
 Ukrainians fleeing the war have been arriving at Mexico's northern border cities by the thousands. There, they are presenting themselves to U.S. border agents and asking for temporary admission to the United States on humanitarian grounds. Thousands of Ukrainians have been let in — availing themselves of the avenues that the Biden administration has opened to ease their admission into the U.S. faster than people who have come from other countries.
 
 
+
+
+### Sources:
+
+#### Katherine Russell, UNICEF Executive Director
+
+#### Mark Danner, War Journalist   
+
+#### Michelle Bachelet, UN High Commissioner for Human Rights 
+
+#### Iryna Venediktova, General Prosecutor of Ukraine
+
+#### Okana and Oleg Matiaschuk, Ukrainian Refugees in USA 
+
+
+### Other sources: 
+
+https://cis.org/
+
+https://www.unrefugees.org/
+
+https://www.npr.org/
+
+https://www.usatoday.com/in-depth/graphics/2022/03/19/millions-ukrainian-refugees-fleeing-where-they-going-ukraine-war/7034809001/
+
+https://www.npr.org/2022/04/13/1092091451/ukrainians-have-arrived-at-the-u-s-mexico-border-by-the-thousands
+
+https://data2.unhcr.org/en/situations/ukraine
+
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B8%D0%B7%D0%B8%D1%81,_%D0%B2%D1%8B%D0%B7%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%83#cite_note-%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B06-1 
+
+https://www.dw.com/en/germany-agrees-2-billion-in-financial-support-for-ukrainian-refugees/a-61402717 
+
+https://www.reuters.com/world/europe/tale-cruelty-ukraine-refugee-exodus-nears-36-million-2022-03-23/
+
+https://www.schengenvisainfo.com/news/110000-refugees-have-arrived-from-ukraine-in-spain-until-now-spanish-pm-reveals/
+
+https://www.interno.gov.it/it/notizie/85057-i-profughi-arrivati-finora-italia-dallucraina
+
+https://www.hurriyetdailynews.com/some-58-000-ukrainians-take-shelter-in-turkey-says-minister-172411
+
+https://kurier.at/politik/inland/42000-ukraine-gefluechtete-mit-vertriebenenstatus-in-oesterreich/401958248 
+
+https://www.dnoticias.pt/2022/4/5/304977-portugal-aceita-mais-de-28-mil-pedidos-de-proteccao-temporaria/ 
+
+https://user-images.githubusercontent.com/99926461/166575068-921d6b8a-240c-4a83-adcc-b08027fefdd4.png 
+
+
