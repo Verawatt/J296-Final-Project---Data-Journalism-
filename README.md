@@ -197,8 +197,12 @@ https://user-images.githubusercontent.com/99926461/166575068-921d6b8a-240c-4a83-
 
 ## Data Visualizations
 
-Countries that accepted more than 10 thousand Ukrainian refugees by April 9, 2022
-
 
 ![Screenshot that shows where the most refugees left](/DataViz.png) 
+
+[Map In Europe of Ukrainian Refugees](https://datawrapper.dwcdn.net/4AtTV/1/) 
+
+![Refugees Map in Europe](/Map.png)  
+
+
 
