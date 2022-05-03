@@ -12,7 +12,7 @@ The following are five questions and step-by-step answers based on the data sets
  
 ## Questions: 
  
-What is the max and min GDP number (in USD) of the countries that accept refugees, and what was the average number? I was trying to determine if there was a positive correlation between a country’s wealth and the amount of refugees it would accept.
+### 1. What is the max and min GDP number (in USD) of the countries that accept refugees, and what was the average number? I was trying to determine if there was a positive correlation between a country’s wealth and the amount of refugees it would accept.
  
 Sort the column "GDP” in the data sheet from A->Z
  
