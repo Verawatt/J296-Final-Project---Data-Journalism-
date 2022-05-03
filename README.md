@@ -33,3 +33,6 @@ Average GDP number: $1,293 billion
 (Column H number of refugees that left to country / Column J Population of the country )
 Moldova has the most refugees
 USA has least refugees  
+
+![Screenshot that shows country with less refugees](/Q2.png)  
+
