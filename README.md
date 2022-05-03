@@ -48,8 +48,17 @@ Sort the column "GDP RANK" in the data sheet from Z->A (or greatest to smallest)
         =AVERAGE(E2:E34)
         
         
-![Screenshot that shows GDP RANK ](/Q3.png)           
-        
-        
+![Screenshot that shows GDP RANK ](/Q3.png)        
 
+
+
+###     4. In which countries do most people go NATO or non-NATO; EU/non-EU?
+ 
+       Pivot table : Sheet1!A2:M34 with NATO or EU in the row section and the metrics in the values section
+ 
+Most people go to NATO and EU countries 
+
+        
+ ![Screenshot that shows GDP RANK ](/Q4.png)       
+  
 
