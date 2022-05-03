@@ -202,3 +202,11 @@ https://www.dnoticias.pt/2022/4/5/304977-portugal-aceita-mais-de-28-mil-pedidos-
 https://user-images.githubusercontent.com/99926461/166575068-921d6b8a-240c-4a83-adcc-b08027fefdd4.png 
 
 
+
+
+
+## Data Visualizations
+
+Countries that accepted more than 10 thousand Ukrainian refugees by April 9, 2022
+
+
