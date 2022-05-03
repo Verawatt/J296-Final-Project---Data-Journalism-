@@ -209,4 +209,18 @@ https://user-images.githubusercontent.com/99926461/166575068-921d6b8a-240c-4a83-
 
 
 
+![ Refugees chart w GDP factor ](/V1.png)  
+
+
+
+![ Refugees chart w distance factor ](/V2.png)  
+
+
+
+![ Refugees Chart Eu/ NATA countries ](/V3.png)  
+
+
+
+
+
 
