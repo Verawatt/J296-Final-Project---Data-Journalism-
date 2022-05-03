@@ -198,9 +198,12 @@ https://user-images.githubusercontent.com/99926461/166575068-921d6b8a-240c-4a83-
 
 ## Data Visualizations
 
+# 1. 
+
+![Chart that shows where the most refugees left](/DataViz.png) 
 
 
-![Screenshot that shows where the most refugees left](/DataViz.png) 
+# 2.  
 
 
 ### This [Map](https://datawrapper.dwcdn.net/4AtTV/1/) shows where the most Ukrainian Refugees go in Europe.
@@ -208,14 +211,19 @@ https://user-images.githubusercontent.com/99926461/166575068-921d6b8a-240c-4a83-
 ![ Refugees Map in Europe ](/MAP.png)  
 
 
+# 3. 
+
 
 ![ Refugees chart w GDP factor ](/V1.png)  
 
+
+# 4.  
 
 
 ![ Refugees chart w distance factor ](/V2.png)  
 
 
+# 5. 
 
 ![ Refugees Chart Eu/ NATA countries ](/V3.png)  
 
