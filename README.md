@@ -23,3 +23,5 @@ Sort the column "GDP” in the data sheet from A->Z
  
 After I  did this formula to find the average number : =AVERAGE(E2:E34)
 Average GDP number: $1,293 billion
+
+![Screenshot for min and max GDP](/Q1.png) 
