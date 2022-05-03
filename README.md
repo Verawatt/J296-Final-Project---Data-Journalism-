@@ -42,7 +42,14 @@ USA has least refugees
  
 Sort the column "GDP RANK" in the data sheet from Z->A (or greatest to smallest), like so:
  
-=RANK.AVG($E$2:$E$34,$E$2:$E$34,0)
-=MIN(E2:E34)
-=MAX(E2:E34)
-=AVERAGE(E2:E34)
+        =RANK.AVG($E$2:$E$34,$E$2:$E$34,0)
+        =MIN(E2:E34)
+        =MAX(E2:E34)
+        =AVERAGE(E2:E34)
+        
+        
+        ![Screenshot that shows GDP RANK ](/Q3.png)   
+        
+        
+
+
