@@ -10,8 +10,23 @@ I downloaded the data from [here](https://www.google.com/url?q=https://databank.
  
 
 Also I  collect data from different resources: 
+
+https://www.unrefugees.org/
+
+https://cis.org/
+
+https://www.npr.org/
+
+https://www.usatoday.com/in-depth/graphics/2022/03/19/millions-ukrainian-refugees-fleeing-where-they-going-ukraine-war/7034809001/
+
+https://www.npr.org/2022/04/13/1092091451/ukrainians-have-arrived-at-the-u-s-mexico-border-by-the-thousands
+
+https://data2.unhcr.org/en/situations/ukraine
+
+https://user-images.githubusercontent.com/99926461/166569859-d5a17b8d-4909-403a-9ed6-b3e55e2daf9e.png
+
  
-The following are five questions and step-by-step answers based on the data sets:
+#### The following are five questions and step-by-step answers based on the data sets:
  
  
 ## Questions: 
