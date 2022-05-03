@@ -91,6 +91,9 @@ Most people go to NATO and EU countries
  
  
   
+ ![Screenshot of countrys with the most number of refugees](/Q5-2.png) 
+  
+  
 
   
 
