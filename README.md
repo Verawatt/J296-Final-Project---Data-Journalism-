@@ -24,3 +24,12 @@ After I  did this formula to find the average number : =AVERAGE(E2:E34)
 Average GDP number: $1,293 billion
 
 ![Screenshot for min and max GDP](/Q1.png) 
+
+ 
+ ###     2. Which country had more and less refugees per 1,000 citizens that were accepted?  
+        
+        I use this formula to find that number. 
+         =H34/J34*1000
+(Column H number of refugees that left to country / Column J Population of the country )
+Moldova has the most refugees
+USA has least refugees  
