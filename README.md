@@ -90,7 +90,7 @@ Most people go to NATO and EU countries
  ![Screenshot that shows percentage of GDP](/Q5.png)  
  
  
- 
+  
 
   
 
