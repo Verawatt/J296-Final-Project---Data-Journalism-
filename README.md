@@ -48,7 +48,7 @@ Sort the column "GDP RANK" in the data sheet from Z->A (or greatest to smallest)
         =AVERAGE(E2:E34)
         
         
-        ![Screenshot that shows GDP RANK ](/Q3.png)   
+![Screenshot that shows GDP RANK ](/Q3.png)           
         
         
 
