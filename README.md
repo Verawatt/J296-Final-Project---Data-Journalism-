@@ -97,3 +97,56 @@ Most people go to NATO and EU countries
  
   
 
+ 
+### Story sumary : 
+ 
+## "Ukrainian refugee crisis 2022"
+
+More than five million people left Ukraine after the Russian armed Invasion on February 24th. This is the most massive crisis in Europe since the Second World War. Most of the refugees - about three million people - were accepted by Poland. 
+Two-thirds of Ukrainian children left their homes. This number includes both those who left the country and internally displaced persons. Refugees are primarily women and children. The Ukrainian government does not release men aged 18 to 60 from the country as subject to mobilization. The majority of the people are trying to escape to neighboring countries: Poland, Moldova, Hungary. The main factor is distance because people hope to return home very soon. Another more significant factor is the friendly nature of the country that could provide food and a place to stay. Countries with the smallest GDP, like Moldova, accept more people from Ukraine than countries with very high GDB.  
+
+At the same time, according to the UN, 870,000 refugees who left Ukraine after the Russian invasion returned to their homeland. It is not reported whether they are included in the latest updated statistics of the organization. The UN has data only for those European countries where refugees have crossed the border. But this does not mean that people escaping from the war are accommodated only in Poland, Romania, Moldova, Hungary, and Slovakia. For example, more than 200 thousand people have already arrived in Germany. Tens of thousands - France. Refugees are being hosted by other countries, particularly the Czech Republic and Ireland, as well as the United Kingdom, which has left the European Union.
+
+According to UN estimates, at least 10 million people have left their homes and will leave Ukraine in the future. This is the most significant number of refugees in Europe in post-war history. For comparison: during the migration crisis of the mid-2010s, less than 1.5 million people arrived in the European Union.
+Before the invasion, Ukraine had a population of 37 million in the regions under government control, excluding Russia-annexed Crimea and the pro-Russian separatist-controlled areas in the east.
+
+And another tragic indicator: two-thirds of Ukrainian children were forced to leave their homes.
+“This war has caused one of the fastest large-scale children's movements since World War II,” said UNICEF Executive Director Katherine Russell.
+
+According to the Office of the Prosecutor General of Ukraine, on March 24, 128 children have died in the country since the beginning of the war, and more than 170 have been injured. The Office of the UN High Commissioner for Human Rights on March 23 reported the death of 81 children in Ukraine.
+
+Here is a breakdown of how many Ukrainian refugees have fled to neighbouring countries:
+
+### Poland
+Nearly six out of 10 Ukrainian refugees -- 2,720,622 so far -- have crossed into Poland, according to the UN.
+Many people who go to Ukraine's immediate western neighbours travel on to other states in Europe's Schengen open-borders zone.
+The World Health Organization said Poland had made 7,000 hospital beds available for the sick and wounded from Ukraine, of which 20 percent were currently in use.
+Some 652,000 people have crossed from Poland into Ukraine since the war began.
+Before the crisis, Poland was already home to around 1.5 million Ukrainians, chiefly migrant workers.
+
+### Romania
+A total of 726,857 Ukrainians entered the EU member state, including a large number who crossed over from Moldova, wedged between Romania and Ukraine.
+The vast majority are thought to have gone on to other countries.
+
+### Russia
+Another 484,725 refugees have sought shelter in Russia.
+In addition, 105,000 people crossed into Russia from the separatist-held pro-Russian regions of Donetsk and Lugansk in eastern Ukraine between February 18 and 23.
+
+### Hungary
+A total of 447,053 Ukrainians have entered Hungary.
+
+### Moldova
+The Moldovan border is the closest to the major port city of Odessa. A total of 419,499 Ukrainians have crossed into the non-EU state, one of the poorest in Europe. Most of those who have entered the former Soviet republic of 2.6 million people have moved on but an estimated 100,000 remain, including 50,000 children -- of whom only 1,800 are enrolled in schools. "Refugee children from Ukraine have fled a brutal war and have arrived dispossessed and traumatised in Moldova. They are very vulnerable and need immediate support," said Yasmine Sherif, Director of Education Cannot Wait. "Public schools are open to refugee children; however, the capacity is over-stretched and there is a need for urgent mental health and psycho-social services, sanitation, and teachers."
+
+### Slovakia
+A total of 329,597 people crossed Ukraine's shortest border into Slovakia.
+
+### Belarus
+Another 22,827 refugees have made it north to Russia's close ally Belarus.
+
+### USA 
+The initial U.S. response was to provide people fleeing Ukraine with economic and humanitarian assistance where they are in neighboring European countries and consider for resettlement into the United States only those Ukrainians who are “unsafe” in the countries they fled to (which is, in essence, the real purpose of refugee resettlement).
+One month into the conflict, President Biden, under pressure from refugee advocates, committed in Brussels to resettling 100,000 Ukrainians in the United States. Those with family members already living here will be given priority.
+Ukrainians fleeing the war have been arriving at Mexico's northern border cities by the thousands. There, they are presenting themselves to U.S. border agents and asking for temporary admission to the United States on humanitarian grounds. Thousands of Ukrainians have been let in — availing themselves of the avenues that the Biden administration has opened to ease their admission into the U.S. faster than people who have come from other countries.
+
+
