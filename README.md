@@ -59,6 +59,19 @@ Sort the column "GDP RANK" in the data sheet from Z->A (or greatest to smallest)
 Most people go to NATO and EU countries 
 
         
- ![Screenshot that shows GDP RANK ](/Q4.png)       
+ ![Screenshot that shows country Nato/not-nato ; EU/Not EU numbers of people](/Q4.png)    
+ 
+ 
+ ###    5. Given the data at hand, which factor drove the influx of the biggest number of refugees to neighboring countries, distance from Ukraine or a country’s wealth?
+  Refugees as a percentage of GDP: 
+ 
+       Formula =H2/E2 
+       (Column H is refugees and Column E is GDP) 
+       
+ ![Screenshot that shows percentage of GDP](/Q5.png)  
+ 
+ 
+ 
+
   
 
