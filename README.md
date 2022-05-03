@@ -200,9 +200,10 @@ https://user-images.githubusercontent.com/99926461/166575068-921d6b8a-240c-4a83-
 
 ![Screenshot that shows where the most refugees left](/DataViz.png) 
 
-[Map In Europe of Ukrainian Refugees](https://datawrapper.dwcdn.net/4AtTV/1/) 
+This [Map] (https://datawrapper.dwcdn.net/4AtTV/1/) shows where the most Ukrainian Refugees go in Europe.
 
-![Refugees Map in Europe](/Map.png)  
+![ Refugees Map in Europe ](/MAP.png)  
+
 
 
 
