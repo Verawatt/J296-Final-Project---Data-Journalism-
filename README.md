@@ -117,6 +117,8 @@ And another tragic indicator: two-thirds of Ukrainian children were forced to le
 
 According to the Office of the Prosecutor General of Ukraine, on March 24, 128 children have died in the country since the beginning of the war, and more than 170 have been injured. The Office of the UN High Commissioner for Human Rights on March 23 reported the death of 81 children in Ukraine.
 
+In fact, proximity to Ukraine appears to be the primary factor driving forces migration. 
+
 Here is a breakdown of how many Ukrainian refugees have fled to neighbouring countries:
 
 ### Poland
